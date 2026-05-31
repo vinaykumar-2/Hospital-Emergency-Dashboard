@@ -36,7 +36,7 @@ The project demonstrates strong skills in:
 ## 🏥 Main Dashboard
 
 <p align="center">
-  <img src="images/Hospital_Emergency_Room_Dashboard.png" width="1000">
+  <img src="images/main_dashboard.png" width="1000">
 </p>
 
 * Displays overall ER performance metrics
@@ -61,7 +61,7 @@ The project demonstrates strong skills in:
 Tracks the daily average waiting time of emergency patients.
 
 <p align="center">
-  <img src="images/Average_wait_time_report.png" width="950">
+  <img src="images/average_wait_time.png" width="950">
 </p>
 
 ### 2. Daily Emergency Patient Count Report
@@ -69,7 +69,7 @@ Tracks the daily average waiting time of emergency patients.
 Shows the number of emergency patients visiting each day.
 
 <p align="center">
-  <img src="images/No._of_patients_(Emergency).png" width="950">
+  <img src="images/emergency_patients.png" width="950">
 </p>
 
 ### 3. Satisfaction Score Report
@@ -77,7 +77,7 @@ Shows the number of emergency patients visiting each day.
 Analyzes daily patient satisfaction scores.
 
 <p align="center">
-  <img src="images/Satisfaction_Score.png" width="950">
+  <img src="images/satisfaction_score.png" width="950">
 </p>
 
 ---
